@@ -7,7 +7,7 @@
 ##############
 #
 # Backcookie depends of this file
-# For full copyright information this visit: https://github.com/jofpin/backcookie
+# For full copyright information this visit: https://github.com/tucommenceapousser/backcookie
 #
 # Copyright 2016 by Jose Pino <jofpin@gmail.com>
 #**
@@ -22,9 +22,9 @@ class elements:
         # data general of author
         self.name = "Backcookie"
         self.description = "Small backdoor using cookie."
-        self.authorName = "Jose Pino"
-        self.authorNick = "Fraph"
-        self.authorTwitter = "@jofpin"
+        self.authorName = "trhacknon"
+        self.authorNick = "trkn"
+        self.authorTwitter = "@trkn"
         self.version = "1.0.2"
         # data of tool
         self.userAgentName = "User-Agent"
